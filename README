@@ -1,0 +1,9 @@
+Ce petit TP illustre la collaboration d'un groupe d'élèves à un même repository sans (encore) utiliser de PR.
+Dans le repo, le fichier numbers.txt comporte une ligne numérotée par élève.
+
+Chaque élève clone le repo dont il a été fait membre en écriture.
+Chaque élève a un numéro.
+Il doit écrire un mot après son numéro dans le fichier sans déborder sur les autres lignes.
+Puis faire localement un commit avec un message et pousser le commit dans le repo général.
+
+
